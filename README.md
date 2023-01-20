@@ -18,11 +18,15 @@
 1. Please refer to the ```Solution - Jupyter Notebooks ``` folder for the solutions.
 2. worked on 4 different approaches.
     1. 1st solution includes only ```BATCH NORMALIZATION.```
-    
-    [a link](/Solution%20-%20Jupyter%20Notebooks/Model1_BatchNormalization.ipynb)
+    [Model 1](/Solution%20-%20Jupyter%20Notebooks/Model1_BatchNormalization.ipynb)
 
     2. 2nd solution includes ```BATCH NORMALIZATION``` and ```DROPOUT```.
-    3. 3rd solution includes ```BATCH NORMALIZATION```, ```DROPOUT```, ```GLOBAL AVERAGE POOLING layer``` 
-    4. 4th Solution includes ```BATCH NORMALIZATION```, ```DROPOUT```, ```GLOBAL AVERAGE POOLING layer``` and ```LR SCHEDULER```.
+    [Model 2](/Solution%20-%20Jupyter%20Notebooks/Model2_BatchNormalization-Dropout.ipynb)
 
-3. 
+    3. 3rd solution includes ```BATCH NORMALIZATION```, ```DROPOUT```, ```GLOBAL AVERAGE POOLING layer``` 
+    [Model 3](/Solution%20-%20Jupyter%20Notebooks/Model3_BatchNormalization-Dropout-GAP.ipynb)
+
+    4. 4th Solution includes ```BATCH NORMALIZATION```, ```DROPOUT```, ```GLOBAL AVERAGE POOLING layer``` and ```LR SCHEDULER```.
+    [Model 4](/Solution%20-%20Jupyter%20Notebooks/Model4_BatchNormalization-Dropout-GAP-LR.ipynb)
+
+3. Every notebook has a ```TEXT BLOCK``` that explains the ```Target, Results and Analysis``` of that corresponding Jupyter Notebook.
