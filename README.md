@@ -19,7 +19,7 @@
 2. worked on 4 different approaches.
     1. 1st solution includes only ```BATCH NORMALIZATION.```
     
-    [a link](Solution - Jupyter Notebooks\Model1_BatchNormalization.ipynb)
+    [a link](/Solution%20-%20Jupyter%20Notebooks/Model1_BatchNormalization.ipynb)
 
     2. 2nd solution includes ```BATCH NORMALIZATION``` and ```DROPOUT```.
     3. 3rd solution includes ```BATCH NORMALIZATION```, ```DROPOUT```, ```GLOBAL AVERAGE POOLING layer``` 
