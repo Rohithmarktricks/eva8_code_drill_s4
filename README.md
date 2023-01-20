@@ -18,6 +18,7 @@
 1. Please refer to the ```Solution - Jupyter Notebooks ``` folder for the solutions.
 2. worked on 4 different approaches.
     1. 1st solution includes only ```BATCH NORMALIZATION.```
+    
     [a relative link](Solution - Jupyter Notebooks\Model1_BatchNormalization.ipynb)
     2. 2nd solution includes ```BATCH NORMALIZATION``` and ```DROPOUT```.
     3. 3rd solution includes ```BATCH NORMALIZATION```, ```DROPOUT```, ```GLOBAL AVERAGE POOLING layer``` 
